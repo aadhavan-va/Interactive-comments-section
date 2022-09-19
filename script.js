@@ -1,4 +1,12 @@
-import JsonData from "./data.json" assert { type: "json" };
+let JsonData;
+
+async function fetchChartData() {
+  const chartFetch = await fetch('data.json');
+  const chartData = await chartFetch.json();
+  JsonData = chartData;
+}
+// initial fetch method
+await fetchChartData();
 
 let data = JsonData;
 let maintag = document.querySelector(".main");
