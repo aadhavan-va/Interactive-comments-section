@@ -4,9 +4,10 @@ The Interactive comments section web app is designed using HTML, CSS and Javascr
 
 ### Mobile Layout ✨
 
+<img width="763" alt="Screenshot 2022-09-19 at 9 59 20 PM" src="https://user-images.githubusercontent.com/51418721/191066854-847fbc77-b664-41a0-86fe-d277afc00e25.png">
 
 
-### Desktop Layout ✨
+### Screen Recording ✨
 
 
 
